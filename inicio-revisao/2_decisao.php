@@ -10,4 +10,3 @@ if ($nota >= 7) {
 } else {
     echo "Reprovado!";
 }
-    
